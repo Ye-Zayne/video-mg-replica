@@ -1,0 +1,41 @@
+{
+  "method": "Held-out SIFT/RANSAC frame similarity transforms. Camera scale relative to frame 9000; UI subtitles excluded.",
+  "samples": [
+    {
+      "frame": 8985,
+      "measuredScale": 0.9951931501886895,
+      "predictedScale": 0.9950648133541745,
+      "error": -0.0001283368345149638,
+      "inliers": 598
+    },
+    {
+      "frame": 9015,
+      "measuredScale": 1.0091502313122922,
+      "predictedScale": 1.0090248247187688,
+      "error": -0.00012540659352344719,
+      "inliers": 708
+    },
+    {
+      "frame": 9045,
+      "measuredScale": 1.0539541977279079,
+      "predictedScale": 1.0540313983077483,
+      "error": 7.720057984039741e-05,
+      "inliers": 411
+    },
+    {
+      "frame": 9075,
+      "measuredScale": 1.1145280555529589,
+      "predictedScale": 1.1145807126223075,
+      "error": 5.2657069348649443e-05,
+      "inliers": 340
+    },
+    {
+      "frame": 9105,
+      "measuredScale": 1.1362734334832578,
+      "predictedScale": 1.1363250578914368,
+      "error": 5.1624408178962966e-05,
+      "inliers": 323
+    }
+  ],
+  "rmse": 9.337551369859932e-05
+}

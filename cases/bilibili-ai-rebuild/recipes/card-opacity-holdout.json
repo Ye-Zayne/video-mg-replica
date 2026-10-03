@@ -1,0 +1,42 @@
+{
+  "samples": [
+    {
+      "frame": 904,
+      "observed": 0.3414634147098589,
+      "predicted": 0.3324128027068726,
+      "error": -0.009050612002986291
+    },
+    {
+      "frame": 908,
+      "observed": 0.5831485588876161,
+      "predicted": 0.5735354325265708,
+      "error": -0.009613126361045277
+    },
+    {
+      "frame": 912,
+      "observed": 0.8558758316753606,
+      "predicted": 0.8492571909008773,
+      "error": -0.006618640774483375
+    },
+    {
+      "frame": 916,
+      "observed": 0.9778270512145959,
+      "predicted": 0.9934751770902837,
+      "error": 0.015648125875687757
+    },
+    {
+      "frame": 920,
+      "observed": 1,
+      "predicted": 0.9905782067408155,
+      "error": -0.009421793259184463
+    },
+    {
+      "frame": 924,
+      "observed": 1,
+      "predicted": 0.9947491633326657,
+      "error": -0.00525083666733428
+    }
+  ],
+  "rmse": 0.009826303977173392,
+  "meaning": "Held-out luma-derived opacity estimates; camera/light variations are confounded, not a direct original opacity channel"
+}

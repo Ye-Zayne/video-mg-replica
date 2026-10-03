@@ -1,0 +1,25 @@
+{
+  "revision": "motion-v2",
+  "referenceSha256": "64f6ca294ef89fc5190ed692ba985eeb55899396d552c330df54f3fc7e87e17e",
+  "referencePath": "/Users/zhangye/Downloads/41630436033-1-192.mp4",
+  "visualMethod": "Native text, SVG and CSS, continuous frame-time functions; OpenAI brand path credited separately",
+  "sourceVideoFramesInProduction": 0,
+  "sourceVideoClipsInProduction": 0,
+  "framewiseShapeStatesInProduction": 0,
+  "publicAssets": [
+    {
+      "path": "public/narration.m4a",
+      "bytes": 6989536,
+      "sha256": "11f7dcf40996ddfcfaf46d23ca0a1d7af4716cf38728ccc1d92efaff6993e43a"
+    }
+  ],
+  "brandShapeSource": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(symbol).svg",
+  "originalAudio": "Original AAC stream reused, no final-delivery re-encoding",
+  "motionEvidence": {
+    "early": "qa/early-motion.md",
+    "middle": "qa/middle-motion.md",
+    "late": "qa/late-motion.md",
+    "ending": "qa/ending-motion.md"
+  },
+  "exactness": "Approximate reconstruction. Most motion inferred from dense reference samples; chart camera has SIFT measurements and held-out validation. People and hands replaced by original graphical adaptation."
+}

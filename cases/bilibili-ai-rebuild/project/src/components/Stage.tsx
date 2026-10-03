@@ -1,0 +1,14 @@
+import React from 'react';
+import {AbsoluteFill} from 'remotion';
+export const SERIF='Songti SC, STSong, SimSun, serif';
+export const SANS='Arial, PingFang SC, sans-serif';
+export const CONDENSED='Avenir Next Condensed, Arial Narrow, sans-serif';
+export const Stage=({dark=false,steel=false,children}:{dark?:boolean;steel?:boolean;children:React.ReactNode})=><AbsoluteFill style={{background:dark?'#071321':steel?'#bcbdbc':'#c9c6b8',overflow:'hidden'}}>
+ <AbsoluteFill style={{background:dark?'radial-gradient(ellipse at 48% 48%,#112331 0%,#03101b 68%,#00060e 100%)':steel?'radial-gradient(ellipse at 46% 53%,#eeeeeb 12%,#d5d5d2 60%,#50514e 100%)':'radial-gradient(ellipse at 51% 86%,#fffff7 0%,#eeeee2 27%,#ccc9bd 69%,#706f65 115%)'}}/>
+ {children}
+ <AbsoluteFill style={{pointerEvents:'none',boxShadow:'inset 0 0 100px 12px rgba(0,0,0,.20)'}}/>
+ </AbsoluteFill>;
+export const Group=({x=0,y=0,rotate=0,scale=1,opacity=1,children,style={}}:{x?:number;y?:number;rotate?:number;scale?:number;opacity?:number;children:React.ReactNode;style?:React.CSSProperties})=><div style={{position:'absolute',left:x,top:y,transform:`rotate(${rotate}deg) scale(${scale})`,transformOrigin:'50% 50%',opacity,...style}}>{children}</div>;
+export const GradientTitle=({text,size=120,width=1100,style={}}:{text:string;size?:number;width?:number;style?:React.CSSProperties})=><div style={{width,fontFamily:CONDENSED,fontSize:size,fontWeight:700,letterSpacing:-2,lineHeight:1.08,whiteSpace:'nowrap',color:'#36bfc0',background:'linear-gradient(100deg,var(--accent-from,#44d3c8) 8%,var(--accent-to,#3c509b) 90%)',backgroundClip:'text',WebkitTextFillColor:'transparent',filter:'drop-shadow(2px 3px 0 #344a84) drop-shadow(10px 15px 9px #0005)',...style}}>{text}</div>;
+export const Title=({text,size=110,color='#27241d',style={}}:{text:string;size?:number;color?:string;style?:React.CSSProperties})=><div style={{fontFamily:SERIF,fontSize:size,fontWeight:900,lineHeight:1.05,color,whiteSpace:'nowrap',textShadow:'1px 1px #777,2px 2px #67655f,3px 3px #55534d,4px 4px #55534d,7px 10px 7px #0006',...style}}>{text}</div>;
+export const Strip=({text,english='',size=60,dark=false,width,style={}}:{text:string;english?:string;size?:number;dark?:boolean;width?:number;style?:React.CSSProperties})=><div style={{fontFamily:SERIF,display:'inline-flex',flexDirection:'column',alignItems:'flex-start',...style}}><div style={{fontSize:size,lineHeight:1.12,fontStyle:'italic',whiteSpace:'nowrap',padding:'2px 12px 4px',width,color:dark?'#fafafa':'#181818',background:dark?'linear-gradient(#555,#303030)':'linear-gradient(#f3f4f1,#c5c6c3)',boxShadow:'12px 19px 14px #0007'}}>{text}</div>{english&&<div style={{marginTop:6,fontSize:size*.52,lineHeight:1.05,fontStyle:'italic',padding:'0 3px',background:dark?'#444':'#ddd',color:dark?'#fff':'#222',boxShadow:'7px 10px 7px #0008'}}>{english}</div>}</div>;

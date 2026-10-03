@@ -1,0 +1,23 @@
+{
+  "reference": "41630436033-1-192.mp4",
+  "referenceSha256": "64f6ca294ef89fc5190ed692ba985eeb55899396d552c330df54f3fc7e87e17e",
+  "visualMethod": "Live text + SVG/CSS primitives + frame functions",
+  "sourceVideoFramesInProduction": 0,
+  "sourcePhotosInProduction": 0,
+  "sourceVideoClipsInProduction": 0,
+  "framewiseShapeStatesInProduction": 0,
+  "publicAssets": [
+    {
+      "path": "public/narration.m4a",
+      "bytes": 6989536,
+      "sha256": "11f7dcf40996ddfcfaf46d23ca0a1d7af4716cf38728ccc1d92efaff6993e43a"
+    }
+  ],
+  "sourceAudio": "Original AAC stream, extracted with FFmpeg stream copy",
+  "knownAdaptations": [
+    "People and live action replaced with diagrams",
+    "Document paragraphs retyped and partly condensed",
+    "Fonts, logos, materials and timing approximate",
+    "Chart manually sampled from reference pixels, not original data"
+  ]
+}

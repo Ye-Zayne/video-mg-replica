@@ -1,0 +1,172 @@
+
+> video-mg-replica-project@1.0.0 render
+> remotion render src/index.tsx Replica ../output/editability-demo-final.mp4 --frames=900-1049 --props=./editability.props.json --codec=h264 --crf=18 --concurrency=2 --browser-executable=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+Bundling 6%
+Bundling 16%
+Bundling 63%
+Bundling 69%
+Bundling 74%
+Bundling 80%
+Bundling 85%
+Bundling 90%
+Bundling 95%
+Bundling 100%
+Getting composition
+Composition          Replica
+Codec                h264
+Output               ../output/editability-demo-final.mp4
+Concurrency          2x
+Rendered 0/150
+Rendered 1/150, time remaining: 53s
+Rendered 2/150, time remaining: 31s
+Rendered 3/150, time remaining: 24s
+Rendered 4/150, time remaining: 19s
+Rendered 5/150, time remaining: 16s
+Rendered 6/150, time remaining: 16s
+Rendered 7/150, time remaining: 13s
+Rendered 8/150, time remaining: 13s
+Rendered 9/150, time remaining: 12s
+Rendered 10/150, time remaining: 12s
+Rendered 11/150, time remaining: 11s
+Rendered 12/150, time remaining: 10s
+Rendered 13/150, time remaining: 10s
+Rendered 14/150, time remaining: 10s
+Rendered 15/150, time remaining: 9s
+Rendered 16/150, time remaining: 9s
+Rendered 17/150, time remaining: 9s
+Rendered 18/150, time remaining: 9s
+Rendered 19/150, time remaining: 8s
+Rendered 20/150, time remaining: 8s
+Rendered 21/150, time remaining: 8s
+Rendered 22/150, time remaining: 8s
+Rendered 23/150, time remaining: 8s
+Rendered 24/150, time remaining: 8s
+Rendered 25/150, time remaining: 8s
+Rendered 26/150, time remaining: 8s
+Rendered 27/150, time remaining: 7s
+Rendered 28/150, time remaining: 7s
+Rendered 29/150, time remaining: 7s
+Rendered 30/150, time remaining: 7s
+Rendered 31/150, time remaining: 7s
+Rendered 32/150, time remaining: 7s
+Rendered 33/150, time remaining: 7s
+Rendered 34/150, time remaining: 7s
+Rendered 35/150, time remaining: 7s
+Rendered 36/150, time remaining: 6s
+Rendered 37/150, time remaining: 6s
+Rendered 38/150, time remaining: 6s
+Rendered 39/150, time remaining: 6s
+Rendered 40/150, time remaining: 6s
+Rendered 41/150, time remaining: 6s
+Rendered 42/150, time remaining: 6s
+Rendered 43/150, time remaining: 6s
+Rendered 44/150, time remaining: 6s
+Rendered 45/150, time remaining: 6s
+Rendered 46/150, time remaining: 6s
+Rendered 47/150, time remaining: 6s
+Rendered 48/150, time remaining: 5s
+Rendered 49/150, time remaining: 5s
+Rendered 50/150, time remaining: 5s
+Rendered 51/150, time remaining: 5s
+Rendered 52/150, time remaining: 5s
+Rendered 53/150, time remaining: 5s
+Rendered 54/150, time remaining: 5s
+Rendered 55/150, time remaining: 5s
+Rendered 56/150, time remaining: 5s
+Rendered 57/150, time remaining: 5s
+Rendered 58/150, time remaining: 5s
+Rendered 59/150, time remaining: 5s
+Rendered 60/150, time remaining: 5s
+Rendered 61/150, time remaining: 5s
+Rendered 62/150, time remaining: 5s
+Rendered 63/150, time remaining: 4s
+Rendered 64/150, time remaining: 4s
+Rendered 65/150, time remaining: 4s
+Rendered 66/150, time remaining: 4s
+Rendered 67/150, time remaining: 4s
+Rendered 68/150, time remaining: 4s
+Rendered 69/150, time remaining: 4s
+Rendered 70/150, time remaining: 4s
+Rendered 71/150, time remaining: 4s
+Rendered 72/150, time remaining: 4s
+Rendered 73/150, time remaining: 4s
+Rendered 74/150, time remaining: 4s
+Rendered 75/150, time remaining: 4s
+Rendered 76/150, time remaining: 4s
+Rendered 77/150, time remaining: 4s
+Rendered 78/150, time remaining: 4s
+Rendered 79/150, time remaining: 3s
+Rendered 80/150, time remaining: 3s
+Rendered 81/150, time remaining: 3s
+Rendered 82/150, time remaining: 3s
+Rendered 83/150, time remaining: 3s
+Rendered 84/150, time remaining: 3s
+Rendered 85/150, time remaining: 3s
+Rendered 86/150, time remaining: 3s
+Rendered 87/150, time remaining: 3s
+Rendered 88/150, time remaining: 3s
+Rendered 89/150, time remaining: 3s
+Rendered 90/150, time remaining: 3s
+Rendered 91/150, time remaining: 3s
+Rendered 92/150, time remaining: 3s
+Rendered 93/150, time remaining: 3s
+Rendered 94/150, time remaining: 3s
+Rendered 95/150, time remaining: 3s
+Rendered 96/150, time remaining: 2s
+Rendered 97/150, time remaining: 2s
+Rendered 98/150, time remaining: 2s
+Rendered 99/150, time remaining: 2s
+Rendered 100/150, time remaining: 2s
+Rendered 101/150, time remaining: 2s
+Rendered 102/150, time remaining: 2s
+Rendered 103/150, time remaining: 2s
+Rendered 104/150, time remaining: 2s
+Rendered 105/150, time remaining: 2s
+Rendered 106/150, time remaining: 2s
+Rendered 107/150, time remaining: 2s
+Rendered 108/150, time remaining: 2s
+Rendered 109/150, time remaining: 2s
+Rendered 110/150, time remaining: 2s
+Rendered 111/150, time remaining: 2s
+Rendered 112/150, time remaining: 2s
+Rendered 113/150, time remaining: 2s
+Rendered 114/150, time remaining: 1s
+Rendered 115/150, time remaining: 1s
+Rendered 116/150, time remaining: 1s
+Rendered 117/150, time remaining: 1s
+Rendered 118/150, time remaining: 1s
+Rendered 119/150, time remaining: 1s
+Rendered 120/150, time remaining: 1s
+Rendered 121/150, time remaining: 1s
+Rendered 122/150, time remaining: 1s
+Rendered 123/150, time remaining: 1s
+Rendered 124/150, time remaining: 1s
+Rendered 125/150, time remaining: 1s
+Rendered 126/150, time remaining: 1s
+Rendered 127/150, time remaining: 1s
+Rendered 128/150, time remaining: 1s
+Rendered 129/150, time remaining: 1s
+Rendered 130/150, time remaining: 1s
+Rendered 131/150, time remaining: 1s
+Rendered 132/150, time remaining: 0s
+Rendered 133/150, time remaining: 0s
+Rendered 134/150, time remaining: 0s
+Rendered 135/150, time remaining: 0s
+Rendered 136/150, time remaining: 0s
+Rendered 137/150, time remaining: 0s
+Rendered 138/150, time remaining: 0s
+Rendered 139/150, time remaining: 0s
+Rendered 140/150, time remaining: 0s
+Rendered 141/150, time remaining: 0s
+Rendered 142/150, time remaining: 0s
+Rendered 143/150, time remaining: 0s
+Rendered 144/150, time remaining: 0s
+Rendered 145/150, time remaining: 0s
+Rendered 146/150, time remaining: 0s
+Rendered 147/150, time remaining: 0s
+Rendered 148/150, time remaining: 0s
+Rendered 149/150, time remaining: 0s
+Rendered 150/150
+Encoded 150/150
++                    ../output/editability-demo-final.mp4 792 kB

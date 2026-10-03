@@ -1,0 +1,26 @@
+
+> video-mg-replica-project@1.0.0 still
+> remotion still src/index.tsx Replica ../output/prototype-960.png --frame=960 --browser-executable=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+🧹 Webpack config change detected. Clearing cache... 
+Bundling 6%
+Bundling 24%
+Bundling 38%
+Bundling 51%
+Bundling 65%
+Bundling 70%
+Bundling 75%
+Bundling 80%
+Bundling 85%
+Bundling 91%
+Bundling 98%
+Bundling 100%
+Getting composition
+⚡️ Cached bundle. Subsequent renders will be faster.
+Composition          Replica
+Format               png
+Output               ../output/prototype-960.png
+Rendered 0/1
+Rendered 0/1
+Rendered 1/1
++                    ../output/prototype-960.png

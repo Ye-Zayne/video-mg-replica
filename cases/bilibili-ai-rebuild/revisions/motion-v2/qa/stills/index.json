@@ -1,0 +1,796 @@
+[
+  {
+    "index": 0,
+    "frame": 66,
+    "time": 2.2,
+    "scene": {
+      "start": 0,
+      "end": 5.8,
+      "type": "opening",
+      "title": "AI网络攻击"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/00-opening.png"
+  },
+  {
+    "index": 1,
+    "frame": 240,
+    "time": 8,
+    "scene": {
+      "start": 5.8,
+      "end": 11.067,
+      "type": "escape",
+      "title": "隔离环境"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/01-escape.png"
+  },
+  {
+    "index": 2,
+    "frame": 361,
+    "time": 12.0474,
+    "scene": {
+      "start": 11.067,
+      "end": 12.701,
+      "type": "explain",
+      "title": "开始追查",
+      "keywords": [
+        "攻击记录",
+        "异常活动",
+        "调查"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/02-explain.png"
+  },
+  {
+    "index": 3,
+    "frame": 422,
+    "time": 14.081,
+    "scene": {
+      "start": 12.701,
+      "end": 15.001,
+      "type": "refuse",
+      "title": "拒绝工作"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/03-refuse.png"
+  },
+  {
+    "index": 4,
+    "frame": 516,
+    "time": 17.201,
+    "scene": {
+      "start": 15.001,
+      "end": 19,
+      "type": "news",
+      "title": "OpenAI 与 Hugging Face携手应对事件"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/04-news.png"
+  },
+  {
+    "index": 5,
+    "frame": 636,
+    "time": 21.2,
+    "scene": {
+      "start": 19,
+      "end": 23.168,
+      "type": "collaboration",
+      "title": "模型自主越狱"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/05-collaboration.png"
+  },
+  {
+    "index": 6,
+    "frame": 761,
+    "time": 25.368,
+    "scene": {
+      "start": 23.168,
+      "end": 29.968,
+      "type": "explain",
+      "title": "断网的 AI，如何逃出去？",
+      "keywords": [
+        "测试环境",
+        "网络能力",
+        "隔离"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/06-explain.png"
+  },
+  {
+    "index": 7,
+    "frame": 965,
+    "time": 32.168,
+    "scene": {
+      "start": 29.968,
+      "end": 33.65,
+      "type": "bugs",
+      "title": "真实漏洞"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/07-bugs.png"
+  },
+  {
+    "index": 8,
+    "frame": 1075,
+    "time": 35.85,
+    "scene": {
+      "start": 33.65,
+      "end": 38.7,
+      "type": "models",
+      "title": "测试模型"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/08-models.png"
+  },
+  {
+    "index": 9,
+    "frame": 1227,
+    "time": 40.900000000000006,
+    "scene": {
+      "start": 38.7,
+      "end": 43.302,
+      "type": "limits",
+      "title": "真实上限"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/09-limits.png"
+  },
+  {
+    "index": 10,
+    "frame": 1365,
+    "time": 45.502,
+    "scene": {
+      "start": 43.302,
+      "end": 51.836,
+      "type": "explain",
+      "title": "测试速度，也要封闭测试场",
+      "keywords": [
+        "加速",
+        "安全边界",
+        "封闭测试"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/10-explain.png"
+  },
+  {
+    "index": 11,
+    "frame": 1621,
+    "time": 54.036,
+    "scene": {
+      "start": 51.836,
+      "end": 61.703,
+      "type": "sandbox",
+      "title": "密闭空间"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/11-sandbox.png"
+  },
+  {
+    "index": 12,
+    "frame": 1917,
+    "time": 63.903000000000006,
+    "scene": {
+      "start": 61.703,
+      "end": 66.136,
+      "type": "explain",
+      "title": "问题出在“小窗口”",
+      "keywords": [
+        "隔离环境",
+        "工具窗口",
+        "外部网络"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/12-explain.png"
+  },
+  {
+    "index": 13,
+    "frame": 2050,
+    "time": 68.336,
+    "scene": {
+      "start": 66.136,
+      "end": 74.4,
+      "type": "article",
+      "title": "OpenAI 内部异常活动",
+      "variant": "activity"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/13-article.png"
+  },
+  {
+    "index": 14,
+    "frame": 2298,
+    "time": 76.60000000000001,
+    "scene": {
+      "start": 74.4,
+      "end": 79.6,
+      "type": "darkwords",
+      "title": "钻过漏洞"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/14-darkwords.png"
+  },
+  {
+    "index": 15,
+    "frame": 2454,
+    "time": 81.8,
+    "scene": {
+      "start": 79.6,
+      "end": 84.037,
+      "type": "online",
+      "title": "正常上网机器"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/15-online.png"
+  },
+  {
+    "index": 16,
+    "frame": 2587,
+    "time": 86.23700000000001,
+    "scene": {
+      "start": 84.037,
+      "end": 93.438,
+      "type": "explain",
+      "title": "它不仅接上了网络",
+      "keywords": [
+        "主动规划",
+        "寻找数据",
+        "获取答案"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/16-explain.png"
+  },
+  {
+    "index": 17,
+    "frame": 2869,
+    "time": 95.638,
+    "scene": {
+      "start": 93.438,
+      "end": 108.105,
+      "type": "hugging",
+      "title": "HUGGING FACE",
+      "variant": "repository"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/17-hugging.png"
+  },
+  {
+    "index": 18,
+    "frame": 3309,
+    "time": 110.305,
+    "scene": {
+      "start": 108.105,
+      "end": 117.105,
+      "type": "explain",
+      "title": "从凭证，到内部机器",
+      "keywords": [
+        "凭证",
+        "多个系统",
+        "内部机器"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/18-explain.png"
+  },
+  {
+    "index": 19,
+    "frame": 3579,
+    "time": 119.305,
+    "scene": {
+      "start": 117.105,
+      "end": 124.906,
+      "type": "article",
+      "title": "“攻击者”是OpenAI！",
+      "variant": "attacker"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/19-article.png"
+  },
+  {
+    "index": 20,
+    "frame": 3813,
+    "time": 127.10600000000001,
+    "scene": {
+      "start": 124.906,
+      "end": 130.473,
+      "type": "explain",
+      "title": "大量临时任务，持续整个周末",
+      "keywords": [
+        "并行任务",
+        "持续运行",
+        "更换节点"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/20-explain.png"
+  },
+  {
+    "index": 21,
+    "frame": 3974,
+    "time": 132.4692,
+    "scene": {
+      "start": 130.473,
+      "end": 133.8,
+      "type": "records",
+      "title": "攻击记录"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/21-records.png"
+  },
+  {
+    "index": 22,
+    "frame": 4080,
+    "time": 136,
+    "scene": {
+      "start": 133.8,
+      "end": 144.173,
+      "type": "hugging",
+      "title": "HUGGING FACE",
+      "variant": "response"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/22-hugging.png"
+  },
+  {
+    "index": 23,
+    "frame": 4391,
+    "time": 146.373,
+    "scene": {
+      "start": 144.173,
+      "end": 151.75,
+      "type": "misread",
+      "title": "AI失控了？"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/23-misread.png"
+  },
+  {
+    "index": 24,
+    "frame": 4618,
+    "time": 153.95,
+    "scene": {
+      "start": 151.75,
+      "end": 158.607,
+      "type": "explain",
+      "title": "模型没有偏离目标",
+      "keywords": [
+        "给定任务",
+        "最高成绩",
+        "最短路径"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/24-explain.png"
+  },
+  {
+    "index": 25,
+    "frame": 4824,
+    "time": 160.807,
+    "scene": {
+      "start": 158.607,
+      "end": 164.841,
+      "type": "route",
+      "title": "完成任务的最快路径"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/25-route.png"
+  },
+  {
+    "index": 26,
+    "frame": 5011,
+    "time": 167.041,
+    "scene": {
+      "start": 164.841,
+      "end": 168.641,
+      "type": "explain",
+      "title": "不是不听话，而是太听话",
+      "keywords": [
+        "目标",
+        "行动",
+        "边界"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/26-explain.png"
+  },
+  {
+    "index": 27,
+    "frame": 5125,
+    "time": 170.84099999999998,
+    "scene": {
+      "start": 168.641,
+      "end": 177.208,
+      "type": "safety",
+      "title": "会不会拒绝危险命令"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/27-safety.png"
+  },
+  {
+    "index": 28,
+    "frame": 5382,
+    "time": 179.408,
+    "scene": {
+      "start": 177.208,
+      "end": 181.175,
+      "type": "obedience",
+      "title": "听话"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/28-obedience.png"
+  },
+  {
+    "index": 29,
+    "frame": 5501,
+    "time": 183.375,
+    "scene": {
+      "start": 181.175,
+      "end": 186.609,
+      "type": "explain",
+      "title": "真正失守的是隔离边界",
+      "keywords": [
+        "模型",
+        "笼子",
+        "真实世界"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/29-explain.png"
+  },
+  {
+    "index": 30,
+    "frame": 5664,
+    "time": 188.809,
+    "scene": {
+      "start": 186.609,
+      "end": 198.043,
+      "type": "isolation",
+      "title": "GPT-5.6 SOL"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/30-isolation.png"
+  },
+  {
+    "index": 31,
+    "frame": 6007,
+    "time": 200.243,
+    "scene": {
+      "start": 198.043,
+      "end": 206.9,
+      "type": "explain",
+      "title": "解除刹车之后",
+      "keywords": [
+        "能力边界",
+        "隔离强度",
+        "风险"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/31-explain.png"
+  },
+  {
+    "index": 32,
+    "frame": 6273,
+    "time": 209.1,
+    "scene": {
+      "start": 206.9,
+      "end": 211.6,
+      "type": "investigation",
+      "title": "攻击如何发生"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/32-investigation.png"
+  },
+  {
+    "index": 33,
+    "frame": 6414,
+    "time": 213.79999999999998,
+    "scene": {
+      "start": 211.6,
+      "end": 215.91,
+      "type": "records",
+      "title": "攻击记录",
+      "variant": "investigate"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/33-records.png"
+  },
+  {
+    "index": 34,
+    "frame": 6543,
+    "time": 218.10999999999999,
+    "scene": {
+      "start": 215.91,
+      "end": 225.577,
+      "type": "explain",
+      "title": "让最强的 AI 帮忙查案",
+      "keywords": [
+        "攻击记录",
+        "商用AI",
+        "分析"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/34-explain.png"
+  },
+  {
+    "index": 35,
+    "frame": 6833,
+    "time": 227.777,
+    "scene": {
+      "start": 225.577,
+      "end": 229.4,
+      "type": "chat",
+      "title": "拒绝分析"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/35-chat.png"
+  },
+  {
+    "index": 36,
+    "frame": 6948,
+    "time": 231.6,
+    "scene": {
+      "start": 229.4,
+      "end": 236.411,
+      "type": "intent",
+      "title": "同一段命令，两种意图"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/36-intent.png"
+  },
+  {
+    "index": 37,
+    "frame": 7158,
+    "time": 238.611,
+    "scene": {
+      "start": 236.411,
+      "end": 253.55,
+      "type": "explain",
+      "title": "查案的人，被挡在门外",
+      "keywords": [
+        "攻击不受限",
+        "调查被拒绝",
+        "自主部署"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/37-explain.png"
+  },
+  {
+    "index": 38,
+    "frame": 7672,
+    "time": 255.75,
+    "scene": {
+      "start": 253.55,
+      "end": 259.212,
+      "type": "glm",
+      "title": "GLM-5.2"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/38-glm.png"
+  },
+  {
+    "index": 39,
+    "frame": 7835,
+    "time": 261.192,
+    "scene": {
+      "start": 259.212,
+      "end": 262.512,
+      "type": "explain",
+      "title": "重点并不是排行榜",
+      "keywords": [
+        "能力",
+        "部署",
+        "控制权"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/39-explain.png"
+  },
+  {
+    "index": 40,
+    "frame": 7941,
+    "time": 264.712,
+    "scene": {
+      "start": 262.512,
+      "end": 269.346,
+      "type": "ranking",
+      "title": "模型与部署"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/40-ranking.png"
+  },
+  {
+    "index": 41,
+    "frame": 8146,
+    "time": 271.546,
+    "scene": {
+      "start": 269.346,
+      "end": 278.346,
+      "type": "explain",
+      "title": "直接运行在自己的机器上",
+      "keywords": [
+        "不等待批准",
+        "不中途叫停",
+        "数据留在本地"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/41-explain.png"
+  },
+  {
+    "index": 42,
+    "frame": 8408,
+    "time": 280.2864,
+    "scene": {
+      "start": 278.346,
+      "end": 281.58,
+      "type": "ranking",
+      "title": "从几天，到几个小时",
+      "variant": "time"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/42-ranking.png"
+  },
+  {
+    "index": 43,
+    "frame": 8513,
+    "time": 283.78,
+    "scene": {
+      "start": 281.58,
+      "end": 286.38,
+      "type": "explain",
+      "title": "开源给你的不只是能力",
+      "keywords": [
+        "部署",
+        "使用",
+        "控制权"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/43-explain.png"
+  },
+  {
+    "index": 44,
+    "frame": 8627,
+    "time": 287.58,
+    "scene": {
+      "start": 286.38,
+      "end": 288.38,
+      "type": "control",
+      "title": "控制权"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/44-control.png"
+  },
+  {
+    "index": 45,
+    "frame": 8717,
+    "time": 290.58,
+    "scene": {
+      "start": 288.38,
+      "end": 298.747,
+      "type": "explain",
+      "title": "何时可用、在哪里运行",
+      "keywords": [
+        "本地机器",
+        "使用时机",
+        "敏感数据"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/45-explain.png"
+  },
+  {
+    "index": 46,
+    "frame": 9028,
+    "time": 300.947,
+    "scene": {
+      "start": 298.747,
+      "end": 304.647,
+      "type": "chart",
+      "title": "关键时刻，能否及时反击"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/46-chart.png"
+  },
+  {
+    "index": 47,
+    "frame": 9205,
+    "time": 306.847,
+    "scene": {
+      "start": 304.647,
+      "end": 309.414,
+      "type": "explain",
+      "title": "公共 AI 仍然需要安全限制",
+      "keywords": [
+        "安全规则",
+        "公共服务",
+        "防守能力"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/47-explain.png"
+  },
+  {
+    "index": 48,
+    "frame": 9348,
+    "time": 311.614,
+    "scene": {
+      "start": 309.414,
+      "end": 320.782,
+      "type": "defense",
+      "title": "进攻与防守"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/48-defense.png"
+  },
+  {
+    "index": 49,
+    "frame": 9689,
+    "time": 322.98199999999997,
+    "scene": {
+      "start": 320.782,
+      "end": 324.782,
+      "type": "explain",
+      "title": "这不是科幻故事",
+      "keywords": [
+        "自主行动",
+        "隔离边界",
+        "防守控制权"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/49-explain.png"
+  },
+  {
+    "index": 50,
+    "frame": 9809,
+    "time": 326.98199999999997,
+    "scene": {
+      "start": 324.782,
+      "end": 329.815,
+      "type": "money",
+      "title": "三个已经发生的现实"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/50-money.png"
+  },
+  {
+    "index": 51,
+    "frame": 9955,
+    "time": 331.8353128,
+    "scene": {
+      "start": 329.815,
+      "end": 333.182188,
+      "type": "principle",
+      "title": "自主行动",
+      "number": "01",
+      "keywords": [
+        "寻找漏洞",
+        "发动攻击"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/51-principle.png"
+  },
+  {
+    "index": 52,
+    "frame": 10023,
+    "time": 334.1024752,
+    "scene": {
+      "start": 333.182188,
+      "end": 334.716,
+      "type": "cassette-second",
+      "title": "第二层",
+      "number": "02"
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/52-cassette-second.png"
+  },
+  {
+    "index": 53,
+    "frame": 10107,
+    "time": 336.916,
+    "scene": {
+      "start": 334.716,
+      "end": 339.082,
+      "type": "principle",
+      "title": "隔离边界",
+      "number": "02",
+      "keywords": [
+        "不只看是否听话",
+        "还要看边界是否牢固"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/53-principle.png"
+  },
+  {
+    "index": 54,
+    "frame": 10238,
+    "time": 341.282,
+    "scene": {
+      "start": 339.082,
+      "end": 347.283,
+      "type": "principle",
+      "title": "防守控制权",
+      "number": "03",
+      "keywords": [
+        "自己能够控制",
+        "关键时刻立即使用"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/54-principle.png"
+  },
+  {
+    "index": 55,
+    "frame": 10484,
+    "time": 349.483,
+    "scene": {
+      "start": 347.283,
+      "end": 358.016625,
+      "type": "closing",
+      "title": "能力 · 控制权",
+      "keywords": [
+        "何时可用",
+        "在哪里运行",
+        "为谁工作"
+      ]
+    },
+    "output": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/stills/55-closing.png"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "reference": "221eb2671d1d8f44c83c444760a37fd6_raw.mp4",
+  "sha256": "8781003131aa4cfaf3d40311914ead59862203e217eaf3f7b2a485d0c3da6a18",
+  "codeOrigin": "Independently written for this case using our video-mg-replica workflow; no upstream b-roll skill implementation used",
+  "liveText": "Ordinary captions, frame labels and closing text; limited custom serif glyph set measured from reference",
+  "vectorReconstruction": "Rotating glyphs, giant letters, Heavy squeeze, loud bubble letters, Bold paint strokes, flat illustrations, brand icon, White curves",
+  "photoReuse": "Isolated chair, glass, portrait collage, walking person, spinning products, three balls, five product thumbnails and ant extracted from reference",
+  "photoBackground": "Birch forest photo with the two caption regions filled using nearby vertical texture; approximate in those regions",
+  "audio": "Original audio retained at its original timing; AAC re-encoding for delivery",
+  "notIncludedAsProductionLayers": "Full reference video and full evidence frames",
+  "editingLimits": "Special glyph animations use measured SVG outline states; media sequences are not 3D models; ordinary captions use fixed measured boxes"
+}

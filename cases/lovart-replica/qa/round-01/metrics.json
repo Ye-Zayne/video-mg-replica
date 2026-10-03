@@ -1,0 +1,185 @@
+{
+  "technical": "passed",
+  "visual": "pending",
+  "audioReview": "pending",
+  "reference": {
+    "path": "/Users/zhangye/Desktop/视频复刻skill/cases/lovart-replica/source/reference.mkv",
+    "width": 1280,
+    "height": 720,
+    "fps": "24",
+    "frames": 596,
+    "duration": 24.834,
+    "audio": false,
+    "videoStream": 0
+  },
+  "render": {
+    "path": "/Users/zhangye/Desktop/视频复刻skill/cases/lovart-replica/output/replica-round1.mp4",
+    "width": 1280,
+    "height": 720,
+    "fps": "24",
+    "frames": 596,
+    "duration": 24.833333,
+    "audio": true,
+    "videoStream": 0
+  },
+  "sampling": {
+    "step": 24,
+    "sampleCount": 25,
+    "totalFrames": 596,
+    "allFrames": false
+  },
+  "sampleMeanRGBMAE": 1.9932457609953704,
+  "frames": [
+    {
+      "frame": 0,
+      "rgbMAE": 0.0,
+      "maxChannelError": 0,
+      "fractionChannelsAbove8": 0.0
+    },
+    {
+      "frame": 24,
+      "rgbMAE": 2.082339409722222,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.022171223958333333
+    },
+    {
+      "frame": 48,
+      "rgbMAE": 0.8715017361111111,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.019416232638888888
+    },
+    {
+      "frame": 72,
+      "rgbMAE": 0.8992708333333334,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.018907335069444444
+    },
+    {
+      "frame": 96,
+      "rgbMAE": 1.1078624131944443,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015926649305555554
+    },
+    {
+      "frame": 120,
+      "rgbMAE": 2.949153645833333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.024408637152777777
+    },
+    {
+      "frame": 144,
+      "rgbMAE": 1.2861165364583333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.013516710069444444
+    },
+    {
+      "frame": 168,
+      "rgbMAE": 1.6917838541666665,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.02789532696759259
+    },
+    {
+      "frame": 192,
+      "rgbMAE": 2.039252387152778,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.020613425925925927
+    },
+    {
+      "frame": 216,
+      "rgbMAE": 2.353421223958333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.019310980902777778
+    },
+    {
+      "frame": 240,
+      "rgbMAE": 2.7703591579861118,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.01840277777777778
+    },
+    {
+      "frame": 264,
+      "rgbMAE": 0.8332758246527779,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015271267361111111
+    },
+    {
+      "frame": 288,
+      "rgbMAE": 2.5898958333333333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.029789858217592592
+    },
+    {
+      "frame": 312,
+      "rgbMAE": 1.389284939236111,
+      "maxChannelError": 84,
+      "fractionChannelsAbove8": 0.012411024305555556
+    },
+    {
+      "frame": 336,
+      "rgbMAE": 1.6908575665509258,
+      "maxChannelError": 146,
+      "fractionChannelsAbove8": 0.016176938657407408
+    },
+    {
+      "frame": 360,
+      "rgbMAE": 1.4967227285879627,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.012968388310185186
+    },
+    {
+      "frame": 384,
+      "rgbMAE": 1.5605103443287038,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015185185185185185
+    },
+    {
+      "frame": 408,
+      "rgbMAE": 6.172259114583333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.07598958333333333
+    },
+    {
+      "frame": 432,
+      "rgbMAE": 5.931923828125,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.06830186631944445
+    },
+    {
+      "frame": 456,
+      "rgbMAE": 5.815889395254629,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.19376844618055555
+    },
+    {
+      "frame": 480,
+      "rgbMAE": 0.8567292390046296,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.014966724537037037
+    },
+    {
+      "frame": 504,
+      "rgbMAE": 0.8531047453703704,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.014428530092592592
+    },
+    {
+      "frame": 528,
+      "rgbMAE": 0.7404680266203704,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.013272207754629629
+    },
+    {
+      "frame": 552,
+      "rgbMAE": 0.9245844184027779,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.004858940972222222
+    },
+    {
+      "frame": 576,
+      "rgbMAE": 0.9245768229166668,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.004858940972222222
+    }
+  ],
+  "note": "RGB metrics are diagnostic only, not a similarity percentage or visual approval."
+}

@@ -1,0 +1,23 @@
+{
+  "segments": [
+    {
+      "source": "full-before-patch.mp4",
+      "start": 0,
+      "endExclusive": 4004
+    },
+    {
+      "source": "handoff-fixed.mp4",
+      "start": 0,
+      "endExclusive": 36,
+      "globalStart": 4004
+    },
+    {
+      "source": "full-before-patch.mp4",
+      "start": 4040,
+      "endExclusive": 10740
+    }
+  ],
+  "referenceFramesUsed": 0,
+  "audio": "Original AAC copy",
+  "reason": "Fixed records-to-brand handoff without title clock reset."
+}

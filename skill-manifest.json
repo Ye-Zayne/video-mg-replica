@@ -1,0 +1,19 @@
+{
+  "SKILL.md": "ce014f14ef3970e60be40db8ff065d2bbedb2723ecc7e06462f196aa814e911c",
+  "agents/openai.yaml": "9e510ad6e8e1f860783e0e5abd88114e20095026cf1dd906fe033792f34bd302",
+  "assets/remotion/package-lock.json": "394d908783792a6ea2aa9bd4f6c0c1474bfabeb05e21642d5d496ccc0a85d128",
+  "assets/remotion/package.json": "840df2834ca89e63b9f254258302ac3a6a1b5e1ed3bad7b38087460235b07e94",
+  "assets/remotion/src/Replica.tsx": "0b6f535f5bdeab9d2197fbe004d1ee8396e734d14957c76a04763f90ec7ff801",
+  "assets/remotion/src/config.ts": "8c7e28a062450d9a8e96f2b6ee47e3a80b4e76f377585ff0a6cda3253e067118",
+  "assets/remotion/src/index.tsx": "6090ef62daae605d4ad36b990170d951cd733ca8e34dccf1d1c42d8629ae3a2e",
+  "assets/remotion/src/motion.ts": "15ce80fbbf8e9570d0f6799dbbe6ee608e37db2c4d285b94d37f4842f5e8bfc0",
+  "assets/remotion/src/primitives.tsx": "13b1c5453ec5729c843000359c44c82b5fc72a94bfbccd607ba02deb9e7866ff",
+  "assets/remotion/tsconfig.json": "88fbc3067c7442ee0b7ef6512af928a83952b5428f2ceec4ee23f5af008133c8",
+  "references/evidence.md": "c510ccc359dcc9cbc300a4a553389012aafd2aaefca3845d8a5d04dc80e69888",
+  "references/mg-motion.md": "de520697f4e974895685b24201d00a13ee3bea61215a4298ce121e56e0de05a2",
+  "references/motion-recipes.md": "8bf5789b6f8b1425490cf079244168565cdf839f7f6a274af0da1a37517b764f",
+  "references/qa.md": "e75fd132652b5600907ff17936a01bceecb229f375d3dc89570d94563d289ad3",
+  "references/remotion.md": "20c01fac43a8baa71cba7d319d119fa9b6c4f2f2469203fad516607e9762e9bd",
+  "scripts/fit_motion.py": "f28bff7dab9c6e19d82645755b9a1672c79b66b03534496bc857fd5fbd1036e1",
+  "scripts/video_tools.py": "561f81418c0c3e1ed482908b59acef704f05272f5cfbab5aa86348a048e4bda4"
+}

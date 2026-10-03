@@ -1,0 +1,36 @@
+{
+  "elementId": "bug-card",
+  "property": "opacity",
+  "units": "ratio",
+  "samples": [
+    {
+      "frame": 902,
+      "value": 0.21951219512195125
+    },
+    {
+      "frame": 906,
+      "value": 0.45454545454545464
+    },
+    {
+      "frame": 910,
+      "value": 0.7028824833702884
+    },
+    {
+      "frame": 914,
+      "value": 0.9733924611973392
+    },
+    {
+      "frame": 918,
+      "value": 0.9866962305986696
+    },
+    {
+      "frame": 922,
+      "value": 1
+    },
+    {
+      "frame": 926,
+      "value": 1
+    }
+  ],
+  "method": "Median luma of measured interior patch in 640px evidence; 223 estimated clean background; opacity is approximate because light/camera also vary"
+}

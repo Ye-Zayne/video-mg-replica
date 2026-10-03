@@ -1,0 +1,31 @@
+{
+  "elementId": "chart-camera",
+  "property": "scale",
+  "units": "ratio",
+  "samples": [
+    {
+      "frame": 8970,
+      "value": 0.9930329107786308
+    },
+    {
+      "frame": 9000,
+      "value": 1.0
+    },
+    {
+      "frame": 9030,
+      "value": 1.0253892093725239
+    },
+    {
+      "frame": 9060,
+      "value": 1.0897738581982523
+    },
+    {
+      "frame": 9090,
+      "value": 1.1286562646975062
+    },
+    {
+      "frame": 9120,
+      "value": 1.1402947137868544
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-0.mp4'
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-1.mp4'
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-2.mp4'
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-3.mp4'
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-4.mp4'
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-5.mp4'
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-6.mp4'
+file '/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/revisions/motion-v2/qa/comparison/clip-7.mp4'

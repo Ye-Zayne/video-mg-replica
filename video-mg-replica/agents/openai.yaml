@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频 / MG 动画复刻"
+  short_description: "逐帧拆解参考视频，重建可编辑画面与动效，输出成片和同步对照证据"
+  default_prompt: "使用 $video-mg-replica 复刻我提供的参考视频，保留原构图、文案、节奏和音轨，交付可编辑工程、MP4 与同步对照。"

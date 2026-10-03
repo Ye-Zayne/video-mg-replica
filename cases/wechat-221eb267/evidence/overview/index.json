@@ -1,0 +1,206 @@
+{
+  "source": "/Users/zhangye/Desktop/视频复刻skill/cases/wechat-221eb267/source/reference.mkv",
+  "fps": "17150/717",
+  "frames": [
+    {
+      "frame": 0,
+      "seconds": 0.0,
+      "path": "frames/frame-000000.png"
+    },
+    {
+      "frame": 15,
+      "seconds": 0.6271137026239068,
+      "path": "frames/frame-000015.png"
+    },
+    {
+      "frame": 30,
+      "seconds": 1.2542274052478135,
+      "path": "frames/frame-000030.png"
+    },
+    {
+      "frame": 45,
+      "seconds": 1.8813411078717202,
+      "path": "frames/frame-000045.png"
+    },
+    {
+      "frame": 60,
+      "seconds": 2.508454810495627,
+      "path": "frames/frame-000060.png"
+    },
+    {
+      "frame": 75,
+      "seconds": 3.1355685131195337,
+      "path": "frames/frame-000075.png"
+    },
+    {
+      "frame": 90,
+      "seconds": 3.7626822157434403,
+      "path": "frames/frame-000090.png"
+    },
+    {
+      "frame": 105,
+      "seconds": 4.389795918367347,
+      "path": "frames/frame-000105.png"
+    },
+    {
+      "frame": 120,
+      "seconds": 5.016909620991254,
+      "path": "frames/frame-000120.png"
+    },
+    {
+      "frame": 135,
+      "seconds": 5.64402332361516,
+      "path": "frames/frame-000135.png"
+    },
+    {
+      "frame": 150,
+      "seconds": 6.271137026239067,
+      "path": "frames/frame-000150.png"
+    },
+    {
+      "frame": 165,
+      "seconds": 6.8982507288629735,
+      "path": "frames/frame-000165.png"
+    },
+    {
+      "frame": 180,
+      "seconds": 7.525364431486881,
+      "path": "frames/frame-000180.png"
+    },
+    {
+      "frame": 195,
+      "seconds": 8.152478134110787,
+      "path": "frames/frame-000195.png"
+    },
+    {
+      "frame": 210,
+      "seconds": 8.779591836734694,
+      "path": "frames/frame-000210.png"
+    },
+    {
+      "frame": 225,
+      "seconds": 9.406705539358601,
+      "path": "frames/frame-000225.png"
+    },
+    {
+      "frame": 240,
+      "seconds": 10.033819241982508,
+      "path": "frames/frame-000240.png"
+    },
+    {
+      "frame": 255,
+      "seconds": 10.660932944606413,
+      "path": "frames/frame-000255.png"
+    },
+    {
+      "frame": 270,
+      "seconds": 11.28804664723032,
+      "path": "frames/frame-000270.png"
+    },
+    {
+      "frame": 285,
+      "seconds": 11.915160349854228,
+      "path": "frames/frame-000285.png"
+    },
+    {
+      "frame": 300,
+      "seconds": 12.542274052478135,
+      "path": "frames/frame-000300.png"
+    },
+    {
+      "frame": 315,
+      "seconds": 13.169387755102042,
+      "path": "frames/frame-000315.png"
+    },
+    {
+      "frame": 330,
+      "seconds": 13.796501457725947,
+      "path": "frames/frame-000330.png"
+    },
+    {
+      "frame": 345,
+      "seconds": 14.423615160349854,
+      "path": "frames/frame-000345.png"
+    },
+    {
+      "frame": 360,
+      "seconds": 15.050728862973761,
+      "path": "frames/frame-000360.png"
+    },
+    {
+      "frame": 375,
+      "seconds": 15.677842565597668,
+      "path": "frames/frame-000375.png"
+    },
+    {
+      "frame": 390,
+      "seconds": 16.304956268221574,
+      "path": "frames/frame-000390.png"
+    },
+    {
+      "frame": 405,
+      "seconds": 16.932069970845482,
+      "path": "frames/frame-000405.png"
+    },
+    {
+      "frame": 420,
+      "seconds": 17.559183673469388,
+      "path": "frames/frame-000420.png"
+    },
+    {
+      "frame": 435,
+      "seconds": 18.186297376093293,
+      "path": "frames/frame-000435.png"
+    },
+    {
+      "frame": 450,
+      "seconds": 18.813411078717202,
+      "path": "frames/frame-000450.png"
+    },
+    {
+      "frame": 465,
+      "seconds": 19.440524781341107,
+      "path": "frames/frame-000465.png"
+    },
+    {
+      "frame": 480,
+      "seconds": 20.067638483965016,
+      "path": "frames/frame-000480.png"
+    },
+    {
+      "frame": 495,
+      "seconds": 20.69475218658892,
+      "path": "frames/frame-000495.png"
+    },
+    {
+      "frame": 510,
+      "seconds": 21.321865889212827,
+      "path": "frames/frame-000510.png"
+    },
+    {
+      "frame": 525,
+      "seconds": 21.948979591836736,
+      "path": "frames/frame-000525.png"
+    },
+    {
+      "frame": 540,
+      "seconds": 22.57609329446064,
+      "path": "frames/frame-000540.png"
+    },
+    {
+      "frame": 555,
+      "seconds": 23.20320699708455,
+      "path": "frames/frame-000555.png"
+    },
+    {
+      "frame": 570,
+      "seconds": 23.830320699708455,
+      "path": "frames/frame-000570.png"
+    },
+    {
+      "frame": 585,
+      "seconds": 24.45743440233236,
+      "path": "frames/frame-000585.png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "source": "/Users/zhangye/Desktop/视频复刻skill/cases/bilibili-ai-rebuild/output/editability-demo-final.mp4",
+  "fps": "675000/22501",
+  "frames": [
+    {
+      "frame": 0,
+      "seconds": 0.0,
+      "path": "frames/frame-000000.png"
+    },
+    {
+      "frame": 60,
+      "seconds": 2.000088888888889,
+      "path": "frames/frame-000060.png"
+    },
+    {
+      "frame": 120,
+      "seconds": 4.000177777777778,
+      "path": "frames/frame-000120.png"
+    }
+  ]
+}

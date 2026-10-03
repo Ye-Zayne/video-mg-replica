@@ -1,0 +1,23 @@
+
+> video-mg-replica-project@1.0.0 still
+> remotion still src/index.tsx Replica ../output/editability.png --frame=98 --props={"motionEnabled":false,"stillFrame":197,"words":{"effortless":"classic classic"},"accent":"#ff4477","assetOverrides":{"assets/walker-197.png":"assets/card-340.png"},"audioEnabled":false} --browser-executable=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+Bundling 6%
+Bundling 17%
+Bundling 27%
+Bundling 65%
+Bundling 71%
+Bundling 76%
+Bundling 81%
+Bundling 86%
+Bundling 91%
+Bundling 98%
+Bundling 100%
+Getting composition
+Composition          Replica
+Format               png
+Output               ../output/editability.png
+Rendered 0/1
+Rendered 0/1
+Rendered 1/1
++                    ../output/editability.png

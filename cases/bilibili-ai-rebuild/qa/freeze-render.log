@@ -1,0 +1,22 @@
+
+> bilibili-ai-mg-rebuild@1.0.0 still
+> remotion still src/index.tsx Replica ../qa/freeze-proof.png --frame=5000 --props=./freeze.props.json --browser-executable=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+Bundling 6%
+Bundling 38%
+Bundling 63%
+Bundling 69%
+Bundling 74%
+Bundling 80%
+Bundling 85%
+Bundling 90%
+Bundling 95%
+Bundling 100%
+Getting composition
+Composition          Replica
+Format               png
+Output               ../qa/freeze-proof.png
+Rendered 0/1
+Rendered 0/1
+Rendered 1/1
++                    ../qa/freeze-proof.png

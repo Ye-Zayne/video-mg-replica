@@ -1,0 +1,11 @@
+{
+  "sampleRate": 48000,
+  "referenceSamples": 1192000,
+  "renderSamples": 1192000,
+  "zeroLagCorrelation": 0.9999276220376555,
+  "bestLagSamples": 0,
+  "bestLagMs": 0.0,
+  "bestLagCorrelation": 0.9999276220376555,
+  "method": "Mono decoded PCM; normalized waveform correlation; search +/-20 ms in 8 sample increments",
+  "auditoryReview": "pending"
+}

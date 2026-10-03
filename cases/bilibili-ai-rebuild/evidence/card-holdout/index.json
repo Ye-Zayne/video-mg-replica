@@ -1,0 +1,36 @@
+{
+  "source": "/Users/zhangye/Downloads/41630436033-1-192.mp4",
+  "fps": "28640000/954711",
+  "frames": [
+    {
+      "frame": 904,
+      "seconds": 30.13473268156425,
+      "path": "frames/frame-000904.png"
+    },
+    {
+      "frame": 908,
+      "seconds": 30.268072206703913,
+      "path": "frames/frame-000908.png"
+    },
+    {
+      "frame": 912,
+      "seconds": 30.401411731843577,
+      "path": "frames/frame-000912.png"
+    },
+    {
+      "frame": 916,
+      "seconds": 30.53475125698324,
+      "path": "frames/frame-000916.png"
+    },
+    {
+      "frame": 920,
+      "seconds": 30.668090782122906,
+      "path": "frames/frame-000920.png"
+    },
+    {
+      "frame": 924,
+      "seconds": 30.80143030726257,
+      "path": "frames/frame-000924.png"
+    }
+  ]
+}

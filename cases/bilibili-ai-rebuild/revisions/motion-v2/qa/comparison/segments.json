@@ -1,0 +1,42 @@
+[
+  {
+    "startFrame": 0,
+    "endFrameExclusive": 174,
+    "title": "片头降落与逐字展开"
+  },
+  {
+    "startFrame": 899,
+    "endFrameExclusive": 1299,
+    "title": "卡片接力与标题更替"
+  },
+  {
+    "startFrame": 1984,
+    "endFrameExclusive": 2232,
+    "title": "资料页推镜与高亮"
+  },
+  {
+    "startFrame": 2804,
+    "endFrameExclusive": 3243,
+    "title": "标题移位与彩卡展开"
+  },
+  {
+    "startFrame": 4000,
+    "endFrameExclusive": 4060,
+    "title": "记录与标题连续接力"
+  },
+  {
+    "startFrame": 5599,
+    "endFrameExclusive": 5942,
+    "title": "隔离标签的连续动作"
+  },
+  {
+    "startFrame": 6882,
+    "endFrameExclusive": 7093,
+    "title": "文字汇聚与替换"
+  },
+  {
+    "startFrame": 9744,
+    "endFrameExclusive": 9894,
+    "title": "磁带叠放与前景旋转"
+  }
+]

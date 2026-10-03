@@ -1,0 +1,66 @@
+{
+  "source": "/Users/zhangye/Desktop/视频复刻skill/examples/mg-demo/validation-case/source/reference.mkv",
+  "fps": "30",
+  "frames": [
+    {
+      "frame": 0,
+      "seconds": 0.0,
+      "path": "frames/frame-000000.png"
+    },
+    {
+      "frame": 10,
+      "seconds": 0.3333333333333333,
+      "path": "frames/frame-000010.png"
+    },
+    {
+      "frame": 20,
+      "seconds": 0.6666666666666666,
+      "path": "frames/frame-000020.png"
+    },
+    {
+      "frame": 30,
+      "seconds": 1.0,
+      "path": "frames/frame-000030.png"
+    },
+    {
+      "frame": 40,
+      "seconds": 1.3333333333333333,
+      "path": "frames/frame-000040.png"
+    },
+    {
+      "frame": 50,
+      "seconds": 1.6666666666666667,
+      "path": "frames/frame-000050.png"
+    },
+    {
+      "frame": 60,
+      "seconds": 2.0,
+      "path": "frames/frame-000060.png"
+    },
+    {
+      "frame": 70,
+      "seconds": 2.3333333333333335,
+      "path": "frames/frame-000070.png"
+    },
+    {
+      "frame": 80,
+      "seconds": 2.6666666666666665,
+      "path": "frames/frame-000080.png"
+    },
+    {
+      "frame": 90,
+      "seconds": 3.0,
+      "path": "frames/frame-000090.png"
+    },
+    {
+      "frame": 100,
+      "seconds": 3.3333333333333335,
+      "path": "frames/frame-000100.png"
+    },
+    {
+      "frame": 110,
+      "seconds": 3.6666666666666665,
+      "path": "frames/frame-000110.png"
+    }
+  ]
+}

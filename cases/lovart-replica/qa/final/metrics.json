@@ -1,0 +1,395 @@
+{
+  "technical": "passed",
+  "visual": "pending",
+  "audioReview": "pending",
+  "reference": {
+    "path": "/Users/zhangye/Desktop/视频复刻skill/cases/lovart-replica/source/reference.mkv",
+    "width": 1280,
+    "height": 720,
+    "fps": "24",
+    "frames": 596,
+    "duration": 24.834,
+    "audio": false,
+    "videoStream": 0
+  },
+  "render": {
+    "path": "/Users/zhangye/Desktop/视频复刻skill/cases/lovart-replica/output/replica.mp4",
+    "width": 1280,
+    "height": 720,
+    "fps": "24",
+    "frames": 596,
+    "duration": 24.833333,
+    "audio": true,
+    "videoStream": 0
+  },
+  "sampling": {
+    "step": 10,
+    "sampleCount": 60,
+    "totalFrames": 596,
+    "allFrames": false
+  },
+  "sampleMeanRGBMAE": 2.0620064561631946,
+  "frames": [
+    {
+      "frame": 0,
+      "rgbMAE": 0.0,
+      "maxChannelError": 0,
+      "fractionChannelsAbove8": 0.0
+    },
+    {
+      "frame": 10,
+      "rgbMAE": 2.771881510416667,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.028976779513888887
+    },
+    {
+      "frame": 20,
+      "rgbMAE": 2.2623307291666666,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.023115234375
+    },
+    {
+      "frame": 30,
+      "rgbMAE": 2.048323567708333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.021615668402777777
+    },
+    {
+      "frame": 40,
+      "rgbMAE": 0.4675868055555556,
+      "maxChannelError": 120,
+      "fractionChannelsAbove8": 0.008828125
+    },
+    {
+      "frame": 50,
+      "rgbMAE": 0.8751399739583333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.01946072048611111
+    },
+    {
+      "frame": 60,
+      "rgbMAE": 0.78314453125,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.01788845486111111
+    },
+    {
+      "frame": 70,
+      "rgbMAE": 0.9025857204861111,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.01886501736111111
+    },
+    {
+      "frame": 80,
+      "rgbMAE": 1.0114485677083334,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.012335069444444444
+    },
+    {
+      "frame": 90,
+      "rgbMAE": 0.9670930989583333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.011713324652777777
+    },
+    {
+      "frame": 100,
+      "rgbMAE": 0.9610785590277778,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.014951171875
+    },
+    {
+      "frame": 110,
+      "rgbMAE": 2.7970334201388893,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.022652994791666665
+    },
+    {
+      "frame": 120,
+      "rgbMAE": 2.949153645833333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.024408637152777777
+    },
+    {
+      "frame": 130,
+      "rgbMAE": 3.406767216435185,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.04152886284722222
+    },
+    {
+      "frame": 140,
+      "rgbMAE": 3.841941189236111,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.06210358796296296
+    },
+    {
+      "frame": 150,
+      "rgbMAE": 1.2861046006944445,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.013516710069444444
+    },
+    {
+      "frame": 160,
+      "rgbMAE": 3.625511067708333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.037611762152777777
+    },
+    {
+      "frame": 170,
+      "rgbMAE": 1.744069010416667,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.03084056712962963
+    },
+    {
+      "frame": 180,
+      "rgbMAE": 0.9903656684027777,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.010562065972222222
+    },
+    {
+      "frame": 190,
+      "rgbMAE": 1.7334678819444445,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015639467592592594
+    },
+    {
+      "frame": 200,
+      "rgbMAE": 1.805005787037037,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.016314742476851853
+    },
+    {
+      "frame": 210,
+      "rgbMAE": 11.304896556712963,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.0807642505787037
+    },
+    {
+      "frame": 220,
+      "rgbMAE": 2.3157367621527776,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.01819118923611111
+    },
+    {
+      "frame": 230,
+      "rgbMAE": 2.478308376736111,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.019981553819444445
+    },
+    {
+      "frame": 240,
+      "rgbMAE": 2.7703591579861118,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.01840277777777778
+    },
+    {
+      "frame": 250,
+      "rgbMAE": 0.8795008680555556,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015177951388888888
+    },
+    {
+      "frame": 260,
+      "rgbMAE": 0.8032085503472223,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015198567708333333
+    },
+    {
+      "frame": 270,
+      "rgbMAE": 0.7615223524305555,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.012357494212962963
+    },
+    {
+      "frame": 280,
+      "rgbMAE": 1.2102173755787036,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.018978587962962964
+    },
+    {
+      "frame": 290,
+      "rgbMAE": 2.621515480324074,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.029853877314814814
+    },
+    {
+      "frame": 300,
+      "rgbMAE": 2.8113078703703707,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.025611255787037036
+    },
+    {
+      "frame": 310,
+      "rgbMAE": 1.1796079282407408,
+      "maxChannelError": 87,
+      "fractionChannelsAbove8": 0.010239800347222222
+    },
+    {
+      "frame": 320,
+      "rgbMAE": 1.482980324074074,
+      "maxChannelError": 118,
+      "fractionChannelsAbove8": 0.014561631944444445
+    },
+    {
+      "frame": 330,
+      "rgbMAE": 1.650643084490741,
+      "maxChannelError": 149,
+      "fractionChannelsAbove8": 0.016082899305555554
+    },
+    {
+      "frame": 340,
+      "rgbMAE": 1.5041286892361112,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.013565538194444445
+    },
+    {
+      "frame": 350,
+      "rgbMAE": 1.5049164496527778,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.013629557291666667
+    },
+    {
+      "frame": 360,
+      "rgbMAE": 1.4967227285879627,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.012968388310185186
+    },
+    {
+      "frame": 370,
+      "rgbMAE": 1.4971053964120369,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.01296947337962963
+    },
+    {
+      "frame": 380,
+      "rgbMAE": 2.8410702401620376,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.04679470486111111
+    },
+    {
+      "frame": 390,
+      "rgbMAE": 2.8976797598379633,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.05103226273148148
+    },
+    {
+      "frame": 400,
+      "rgbMAE": 2.7396752025462963,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.047289134837962966
+    },
+    {
+      "frame": 410,
+      "rgbMAE": 7.114824218749999,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.08133355034722223
+    },
+    {
+      "frame": 420,
+      "rgbMAE": 6.307610677083333,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.06773871527777778
+    },
+    {
+      "frame": 430,
+      "rgbMAE": 6.535495876736111,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.0701953125
+    },
+    {
+      "frame": 440,
+      "rgbMAE": 2.039937789351852,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.03900571469907407
+    },
+    {
+      "frame": 450,
+      "rgbMAE": 2.2598480902777776,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.047961877893518516
+    },
+    {
+      "frame": 460,
+      "rgbMAE": 2.8821585648148145,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.06195023148148148
+    },
+    {
+      "frame": 470,
+      "rgbMAE": 0.8386744068287036,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.014780454282407407
+    },
+    {
+      "frame": 480,
+      "rgbMAE": 0.8567292390046296,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.014966724537037037
+    },
+    {
+      "frame": 490,
+      "rgbMAE": 0.8827452256944445,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015038339120370371
+    },
+    {
+      "frame": 500,
+      "rgbMAE": 0.8673643663194444,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.014998914930555555
+    },
+    {
+      "frame": 510,
+      "rgbMAE": 0.8608282696759259,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.014683159722222222
+    },
+    {
+      "frame": 520,
+      "rgbMAE": 0.9272157118055556,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.015067274305555555
+    },
+    {
+      "frame": 530,
+      "rgbMAE": 2.2742936197916666,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.022884476273148147
+    },
+    {
+      "frame": 540,
+      "rgbMAE": 1.0595713975694445,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.005478515625
+    },
+    {
+      "frame": 550,
+      "rgbMAE": 1.0595811631944445,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.005478515625
+    },
+    {
+      "frame": 560,
+      "rgbMAE": 1.0595887586805555,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.005478515625
+    },
+    {
+      "frame": 570,
+      "rgbMAE": 1.0595887586805555,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.005478515625
+    },
+    {
+      "frame": 580,
+      "rgbMAE": 0.42665364583333326,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.0028342013888888887
+    },
+    {
+      "frame": 590,
+      "rgbMAE": 0.4265418836805555,
+      "maxChannelError": 255,
+      "fractionChannelsAbove8": 0.0028309461805555557
+    }
+  ],
+  "note": "RGB metrics are diagnostic only, not a similarity percentage or visual approval."
+}

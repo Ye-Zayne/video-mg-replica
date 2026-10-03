@@ -1,0 +1,23 @@
+
+> video-mg-replica-project@1.0.0 still
+> remotion still src/index.tsx Replica ../qa/chart-corrected.png --frame=9000 --browser-executable=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+Bundling 6%
+Bundling 17%
+Bundling 28%
+Bundling 65%
+Bundling 71%
+Bundling 76%
+Bundling 81%
+Bundling 86%
+Bundling 91%
+Bundling 98%
+Bundling 100%
+Getting composition
+Composition          Replica
+Format               png
+Output               ../qa/chart-corrected.png
+Rendered 0/1
+Rendered 0/1
+Rendered 1/1
++                    ../qa/chart-corrected.png

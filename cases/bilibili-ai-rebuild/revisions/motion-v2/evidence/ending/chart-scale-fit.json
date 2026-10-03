@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "elementId": "chart-camera",
+  "property": "scale",
+  "units": "ratio",
+  "startFrame": 8970.0,
+  "endFrame": 9120.0,
+  "from": 0.9930329107786308,
+  "to": 1.1402947137868544,
+  "bezier": [
+    0.666,
+    0.043,
+    0.402,
+    0.896
+  ],
+  "rmse": 6.26838756130036e-05,
+  "maxAbsoluteError": 0.00011075824842576854,
+  "normalizedRMSE": 0.0004256628285985544,
+  "samples": [
+    {
+      "frame": 8970,
+      "value": 0.9930329107786308,
+      "predicted": 0.9930329107786308,
+      "error": 0.0
+    },
+    {
+      "frame": 9000,
+      "value": 1.0,
+      "predicted": 0.9998892417515742,
+      "error": -0.00011075824842576854
+    },
+    {
+      "frame": 9030,
+      "value": 1.0253892093725239,
+      "predicted": 1.025451071982507,
+      "error": 6.186260998308768e-05
+    },
+    {
+      "frame": 9060,
+      "value": 1.0897738581982523,
+      "predicted": 1.0897917184739552,
+      "error": 1.786027570283011e-05
+    },
+    {
+      "frame": 9090,
+      "value": 1.1286562646975062,
+      "predicted": 1.1285716346318395,
+      "error": -8.463006566672426e-05
+    },
+    {
+      "frame": 9120,
+      "value": 1.1402947137868544,
+      "predicted": 1.1402947137868544,
+      "error": 0.0
+    }
+  ],
+  "status": "needs_visual_review",
+  "method": "deterministic multi-start coordinate descent; single CSS cubic-bezier",
+  "limits": "Fits the supplied interval only. Low measurement error does not validate unseen frames, endpoints, or original software parameters."
+}

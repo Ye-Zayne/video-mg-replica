@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "elementId": "bug-card",
+  "property": "opacity",
+  "units": "ratio",
+  "startFrame": 902.0,
+  "endFrame": 926.0,
+  "from": 0.21951219512195125,
+  "to": 1.0,
+  "bezier": [
+    0.745,
+    1.271,
+    0.22,
+    0.926
+  ],
+  "rmse": 0.004309981383233213,
+  "maxAbsoluteError": 0.008479148733201214,
+  "normalizedRMSE": 0.005522163647267553,
+  "samples": [
+    {
+      "frame": 902,
+      "value": 0.21951219512195125,
+      "predicted": 0.21951219512195125,
+      "error": 0.0
+    },
+    {
+      "frame": 906,
+      "value": 0.45454545454545464,
+      "predicted": 0.4499124495439606,
+      "error": -0.0046330050014940505
+    },
+    {
+      "frame": 910,
+      "value": 0.7028824833702884,
+      "predicted": 0.7057260950140998,
+      "error": 0.0028436116438114167
+    },
+    {
+      "frame": 914,
+      "value": 0.9733924611973392,
+      "predicted": 0.9722455233567153,
+      "error": -0.0011469378406239183
+    },
+    {
+      "frame": 918,
+      "value": 0.9866962305986696,
+      "predicted": 0.9919182306457806,
+      "error": 0.005222000047110931
+    },
+    {
+      "frame": 922,
+      "value": 1,
+      "predicted": 0.9915208512667988,
+      "error": -0.008479148733201214
+    },
+    {
+      "frame": 926,
+      "value": 1,
+      "predicted": 1.0,
+      "error": 0.0
+    }
+  ],
+  "status": "needs_visual_review",
+  "method": "deterministic multi-start coordinate descent; single CSS cubic-bezier",
+  "limits": "Fits the supplied interval only. Low measurement error does not validate unseen frames, endpoints, or original software parameters."
+}

@@ -1,0 +1,11 @@
+{
+  "freezeVisualPassed": true,
+  "freezePixelExact": false,
+  "freezeMaxChannelDifference": 1,
+  "freezeMeanAbsoluteChannelDifference": 2.604166666666667e-05,
+  "threshold": "At most 1 RGB level; subpixel raster rounding permitted. Geometry and frame-time should remain the same.",
+  "replacementChanged": true,
+  "liveFrame": 960,
+  "frozenRenderFrame": 5000,
+  "stillFrame": 960
+}

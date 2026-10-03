@@ -1,0 +1,30 @@
+{
+  "referenceSamples": 17184798,
+  "renderSamples": 17184253,
+  "sampleRate": 48000,
+  "windows": [
+    {
+      "startSeconds": 1,
+      "seconds": 10,
+      "bestLagSamples": 0,
+      "bestLagMs": 0.0,
+      "zeroLagCorrelation": 0.9999999958039352
+    },
+    {
+      "startSeconds": 170,
+      "seconds": 10,
+      "bestLagSamples": 0,
+      "bestLagMs": 0.0,
+      "zeroLagCorrelation": 0.9999999949586226
+    },
+    {
+      "startSeconds": 344,
+      "seconds": 10,
+      "bestLagSamples": 0,
+      "bestLagMs": 0.0,
+      "zeroLagCorrelation": 0.999999994798709
+    }
+  ],
+  "audioMethod": "Original AAC copied without re-encoding; decoded waveform checked against normalized reference PCM",
+  "auditoryReview": "pending"
+}
