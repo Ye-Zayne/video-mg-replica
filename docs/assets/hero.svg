@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
+  <title id="title">Video / MG Replica — 让参考中的运动，成为可编辑的作品</title>
+  <desc id="desc">视频与 MG 动画复刻 Skill 的项目封面。左侧为项目名称，右侧展示分层画面、关键帧和连续运动曲线。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f9faf7"/><stop offset="1" stop-color="#efedf8"/></linearGradient>
+    <linearGradient id="violet" x2="1" y2="1"><stop stop-color="#b2a0ff"/><stop offset="1" stop-color="#7451ed"/></linearGradient>
+    <linearGradient id="card" x2="1" y2="1"><stop stop-color="#292838"/><stop offset="1" stop-color="#141520"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#655c86" stroke-opacity=".06"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="170%" height="180%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#332653" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="1600" height="640" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="640" rx="28" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <g transform="translate(76 70)">
+      <rect x="0" y="9" width="36" height="28" rx="5" fill="none" stroke="#7d59e8" stroke-width="3"/>
+      <rect x="10" y="0" width="36" height="28" rx="5" fill="#20212c"/>
+      <path d="M24 7L35 14L24 21Z" fill="#d1f188"/>
+      <text x="65" y="27" fill="#44404f" font-size="19" font-weight="700" letter-spacing="3">REFERENCE TO REBUILD</text>
+    </g>
+    <text x="76" y="220" font-size="85" font-weight="800" letter-spacing="-4" fill="#20212c">VIDEO / MG</text>
+    <text x="76" y="315" font-size="85" font-weight="800" letter-spacing="-4" fill="#7d59e8">REPLICA</text>
+    <text x="79" y="378" font-size="29" font-weight="600" fill="#33313e">让参考中的运动，成为可编辑的作品。</text>
+    <text x="79" y="423" font-size="20" fill="#73707e">Read the frames. Rebuild the motion. Keep it editable.</text>
+    <g transform="translate(79 474)" font-size="16" font-weight="600">
+      <rect width="111" height="38" rx="19" fill="#e7e0fa"/><text x="55" y="25" text-anchor="middle" fill="#6847c6">逐帧取证</text>
+      <rect x="123" width="111" height="38" rx="19" fill="#e7e0fa"/><text x="178" y="25" text-anchor="middle" fill="#6847c6">图层重建</text>
+      <rect x="246" width="111" height="38" rx="19" fill="#e7e0fa"/><text x="301" y="25" text-anchor="middle" fill="#6847c6">动效复刻</text>
+      <rect x="369" width="111" height="38" rx="19" fill="#e7e0fa"/><text x="424" y="25" text-anchor="middle" fill="#6847c6">同步对照</text>
+    </g>
+    <text x="80" y="581" font-size="16" letter-spacing="2" fill="#77717f">BUILT TOGETHER · YE-ZAYNE + JINNY-WJ</text>
+    <g filter="url(#shadow)">
+      <rect x="838" y="73" width="624" height="426" rx="21" fill="#ded5f7" stroke="#c5b7ec" transform="rotate(-7 1150 286)"/>
+      <rect x="855" y="87" width="624" height="426" rx="21" fill="#e9e4f7" stroke="#d7cdee" transform="rotate(5 1167 300)"/>
+      <rect x="829" y="91" width="650" height="450" rx="20" fill="url(#card)"/>
+    </g>
+    <circle cx="856" cy="119" r="4" fill="#a0a0b2"/><circle cx="872" cy="119" r="4" fill="#737184"/><circle cx="888" cy="119" r="4" fill="#59576b"/>
+    <text x="921" y="125" fill="#bbb5ca" font-size="12" letter-spacing="2">EDITABLE COMPOSITION</text>
+    <rect x="1375" y="108" width="80" height="23" rx="11" fill="#353742"/><circle cx="1389" cy="120" r="3" fill="#d1f188"/><text x="1400" y="124" fill="#d1f188" font-size="10">FRAME 081</text>
+    <path d="M829 143H1479" stroke="#494454"/>
+    <rect x="862" y="175" width="412" height="218" rx="8" fill="#363044"/>
+    <g opacity=".2" stroke="#c7b8f0"><path d="M862 229H1274M862 284H1274M862 338H1274M965 175V393M1068 175V393M1171 175V393"/></g>
+    <rect x="919" y="209" width="297" height="126" rx="9" fill="url(#violet)" transform="rotate(-5 1067 272)"/>
+    <text x="1069" y="291" text-anchor="middle" font-size="51" font-weight="800" letter-spacing="-2" fill="#faf9ff">MOTION</text>
+    <g stroke="#d1f188" fill="none"><rect x="906" y="197" width="326" height="150" stroke-dasharray="5 5"/><path d="M1069 189V356M898 272H1240" opacity=".45"/></g>
+    <g fill="#d1f188"><rect x="902" y="193" width="8" height="8"/><rect x="1228" y="193" width="8" height="8"/><rect x="902" y="343" width="8" height="8"/><rect x="1228" y="343" width="8" height="8"/></g>
+    <g transform="translate(1294 179)" font-size="12">
+      <text y="0" fill="#a8a2b8" letter-spacing="2">LAYERS</text>
+      <rect y="17" width="156" height="35" rx="6" fill="#493a65"/><text x="13" y="40" fill="#ede7fe">T</text><text x="38" y="40" fill="#ede7fe">Typography</text>
+      <rect y="61" width="156" height="35" rx="6" fill="#302e3e"/><rect x="12" y="75" width="11" height="9" rx="2" fill="#b398f9"/><text x="38" y="84" fill="#ccc7da">Shape</text>
+      <rect y="105" width="156" height="35" rx="6" fill="#302e3e"/><path d="M12 124L18 118L24 124L18 130Z" fill="#d1f188"/><text x="38" y="128" fill="#ccc7da">Mask</text>
+      <rect y="149" width="156" height="35" rx="6" fill="#302e3e"/><path d="M11 171Q16 156 25 164" fill="none" stroke="#f4bf7a" stroke-width="2"/><text x="38" y="172" fill="#ccc7da">Motion path</text>
+    </g>
+    <path d="M862 416H1450" stroke="#474154"/>
+    <text x="863" y="438" fill="#9f98b0" font-size="10" letter-spacing="2">TIMELINE / CONTINUOUS MOTION</text>
+    <rect x="863" y="454" width="586" height="53" rx="6" fill="#211f2d"/>
+    <rect x="878" y="463" width="125" height="9" rx="4" fill="#71608e"/><rect x="964" y="478" width="218" height="9" rx="4" fill="#8f70d4"/><rect x="1164" y="493" width="244" height="5" rx="2" fill="#514861"/>
+    <path d="M887 501C983 501 999 444 1079 444S1199 502 1284 484S1361 451 1429 451" stroke="#d1f188" stroke-width="3" fill="none"/>
+    <path d="M1189 443V512" stroke="#e3d9fc" stroke-width="1.5"/><path d="M1183 440H1195L1189 447Z" fill="#e3d9fc"/>
+    <text x="1154" y="588" text-anchor="middle" fill="#77717f" font-size="15" letter-spacing="2">FRAMES → LAYERS → MOTION → COMPARISON</text>
+  </g>
+</svg>

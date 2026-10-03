@@ -8,3 +8,6 @@
 *.m4a filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.ttf filter=lfs diff=lfs merge=lfs -text
+
+# Small README previews stay in Git so the project page loads without LFS.
+docs/assets/*.jpg -filter -diff -merge
