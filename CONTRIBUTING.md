@@ -21,6 +21,22 @@
 
 Python 工具测试需要 Pillow、完整 FFmpeg / ffprobe；可通过 `FFMPEG`、`FFPROBE` 指定路径。完整准备方式见 [README](README.md#快速开始)。
 
+## 共同作者署名
+
+本项目由 Zayne / Ye-Zayne 与 jinny-wj 共创。两人共同完成的修改，应在提交记录中保留实际参与者的署名；单独完成的修改按实际作者提交。
+
+共同提交时，一人作为提交作者，另一人使用 `Co-authored-by` 尾行署名。邮箱需关联对应 GitHub 帐号，推荐使用帐号设置中提供的 `noreply` 邮箱，避免公开私人邮箱。以 jinny-wj 提交、Zayne 共同参与为例：
+
+```text
+完善 Zayne 与 jinny-wj 的共同作者署名
+
+Co-authored-by: Ye-Zayne <Ye-Zayne@users.noreply.github.com>
+```
+
+提交到 `main` 后，可以在提交详情中查看共同作者。仓库名旁的头像表示仓库所有者；提交栏与 Contributors 表示提交参与者，和 README 中的项目共创介绍分别展示。
+
+完整格式见 [GitHub 共同作者提交说明](https://docs.github.com/en/pull-requests/how-tos/commit-changes/creating-a-commit-with-multiple-authors)。
+
 ## 素材与工程
 
 - 大型图片、视频、音频和压缩包遵循仓库 `.gitattributes`，使用 Git LFS；README 的小预览图直接保存在 Git 中。
