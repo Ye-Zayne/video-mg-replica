@@ -15,7 +15,7 @@
       <rect x="0" y="9" width="36" height="28" rx="5" fill="none" stroke="#7d59e8" stroke-width="3"/>
       <rect x="10" y="0" width="36" height="28" rx="5" fill="#20212c"/>
       <path d="M24 7L35 14L24 21Z" fill="#d1f188"/>
-      <text x="65" y="27" fill="#44404f" font-size="19" font-weight="700" letter-spacing="3">REFERENCE TO REBUILD</text>
+      <text x="65" y="27" fill="#44404f" font-size="19" font-weight="700" letter-spacing="3">CODEX + CLAUDE CODE</text>
     </g>
     <text x="76" y="220" font-size="85" font-weight="800" letter-spacing="-4" fill="#20212c">VIDEO / MG</text>
     <text x="76" y="315" font-size="85" font-weight="800" letter-spacing="-4" fill="#7d59e8">REPLICA</text>

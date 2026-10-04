@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="video-mg-replica/SKILL.md"><img alt="Codex Skill" src="https://img.shields.io/badge/Codex-Skill-20212c?style=flat-square" /></a>
+  <a href="video-mg-replica/SKILL.md"><img alt="Claude Code Skill" src="https://img.shields.io/badge/Claude_Code-Skill-d97757?style=flat-square" /></a>
   <img alt="Remotion 4.0.518" src="https://img.shields.io/badge/Remotion-4.0.518-7d59e8?style=flat-square" />
   <img alt="Python 3.10+" src="https://img.shields.io/badge/Python-3.10%2B-3776ab?style=flat-square" />
   <img alt="Node.js 20+" src="https://img.shields.io/badge/Node.js-20%2B-43853d?style=flat-square" />
@@ -25,7 +26,7 @@
 
 ## 项目能做什么
 
-**Video / MG Replica** 是一套供 Codex 使用的视频复刻 Skill，随附 Python 取证工具、Remotion 工程模板和完整案例。给出参考视频与复刻范围后，工作流程会围绕构图、文字、图形、镜头、动作和音轨逐项重建，输出可以继续修改的 React / SVG / Remotion 工程。
+**Video / MG Replica** 是一套适用于 **Codex 与 Claude Code** 的视频复刻 Skill，随附 Python 取证工具、Remotion 工程模板和完整案例。两边使用同一套 `SKILL.md`、脚本与参考规范，按各自的技能目录安装即可。给出参考视频与复刻范围后，工作流程会围绕构图、文字、图形、镜头、动作和音轨逐项重建，输出可以继续修改的 React / SVG / Remotion 工程。
 
 适合品牌短片、文字动效、产品演示、图表动画、知识讲解和其他参考驱动的 Motion Graphics（MG）制作。你可以严格沿用原片，也可以明确指定换文案、换配色、去人物或只处理某个时间段。
 
@@ -107,14 +108,23 @@ Set-Location video-mg-replica
 
 ### 2. 安装 Skill
 
-在 Codex 中可以直接请求：
+选择所用工具的安装目录与调用方式：
+
+| 工具 | 个人安装目录 | 项目安装目录 | 显式调用 |
+|---|---|---|---|
+| Codex | `~/.agents/skills/video-mg-replica/` | `.agents/skills/video-mg-replica/` | `$video-mg-replica` |
+| Claude Code | `~/.claude/skills/video-mg-replica/` | `.claude/skills/video-mg-replica/` | `/video-mg-replica` |
+
+以下手动安装命令在已克隆的仓库根目录执行，适用于 macOS / Linux。安装时保留整个 `video-mg-replica/` 目录，包括 `SKILL.md`、`scripts/`、`references/`、`assets/`；`agents/openai.yaml` 是 Codex 的展示元数据，可一起保留。
+
+**Codex** 可以直接请求：
 
 ```text
 使用 $skill-installer，从下面的 GitHub 仓库安装 video-mg-replica 文件夹：
 https://github.com/Ye-Zayne/video-mg-replica
 ```
 
-也可在已克隆的仓库根目录手动安装。下例适用于 macOS / Linux，安装目录中需包含 `SKILL.md`、`scripts/`、`references/`、`assets/` 和 `agents/`：
+或手动安装到个人目录：
 
 ```bash
 mkdir -p ~/.agents/skills/video-mg-replica
@@ -122,13 +132,31 @@ git archive HEAD video-mg-replica | \
   tar -x --strip-components=1 -C ~/.agents/skills/video-mg-replica
 ```
 
-这里使用仓库中已提交的文件，避免把本机 `node_modules` 和缓存复制进安装目录。已有同名安装时请先备份本地修改。安装后若没有发现 Skill，重新打开 Codex。当前本地技能路径与发现方式见 [OpenAI 官方 Skill 文档](https://learn.chatgpt.com/docs/build-skills)。本项目早期本机安装记录使用 `~/.codex/skills/`，已经被环境识别的旧安装可继续使用；避免重复安装同名副本。
+**Claude Code** 安装到个人目录后，可在本机各个项目中使用：
+
+```bash
+mkdir -p ~/.claude/skills/video-mg-replica
+git archive HEAD video-mg-replica | \
+  tar -x --strip-components=1 -C ~/.claude/skills/video-mg-replica
+```
+
+若只希望在当前项目中使用，可安装到项目目录：
+
+```bash
+mkdir -p .claude/skills/video-mg-replica
+git archive HEAD video-mg-replica | \
+  tar -x --strip-components=1 -C .claude/skills/video-mg-replica
+```
+
+这些命令使用仓库中已提交的文件，避免复制本机 `node_modules` 和缓存。已有同名安装时请先备份本地修改。安装后若未发现 Skill，重新打开所用工具；复制安装的副本需在源版本更新后重新安装。个人目录示例面向本机使用，Claude Code 云端任务应使用提交到目标项目的 `.claude/skills/`。
+
+路径与发现方式见 [Codex 官方 Skill 文档](https://learn.chatgpt.com/docs/build-skills) 和 [Claude Code 官方 Skill 文档](https://code.claude.com/docs/en/skills)。本项目早期本机 Codex 安装记录使用 `~/.codex/skills/`，已经被环境识别的旧安装可继续使用；避免在同一工具中重复安装同名副本。
 
 ### 3. 配置运行依赖
 
 | 依赖 | 要求／用途 |
 |---|---|
-| Codex | 读取 Skill 并执行取证、实现、检查与交付流程 |
+| Codex 或 Claude Code | 读取 Skill 并执行取证、实现、检查与交付流程 |
 | Python | 3.10+，运行取证与运动拟合脚本 |
 | Pillow | 联系表、差异图等图像处理 |
 | FFmpeg + ffprobe | 探测、抽帧、音视频处理；需包含所用滤镜和编码器 |
@@ -149,7 +177,7 @@ Windows 激活命令为 `.venv\Scripts\Activate.ps1`。FFmpeg / ffprobe 不在 `
 
 ### 4. 给出参考，开始复刻
 
-在已发现此 Skill 的任务中输入：
+在已发现此 Skill 的任务中，Codex 使用 `$video-mg-replica`，Claude Code 使用 `/video-mg-replica`。例如在 Codex 中输入：
 
 ```text
 使用 $video-mg-replica 复刻下面这个视频。
@@ -160,6 +188,14 @@ Windows 激活命令为 `.venv\Scripts\Activate.ps1`。FFmpeg / ffprobe 不在 `
 文字、图形、数字与 MG 动画需要可编辑。
 请交付完整 MP4、可编辑工程、同步对照和已知差异说明。
 ```
+
+在 Claude Code 中，把上述提示词的第一行改为：
+
+```text
+/video-mg-replica 复刻下面这个视频。
+```
+
+其余参考路径、输出目录与交付要求相同。
 
 按需要追加约束：
 
@@ -283,7 +319,7 @@ python video-mg-replica/scripts/video_tools.py compare \
 
 **是否需要额外的付费生成服务？**
 
-Skill 随附的取证、拟合和渲染工具不依赖付费生成服务；执行任务所用的 Codex 帐号和模型服务按你的环境配置。
+Skill 随附的取证、拟合和渲染工具不依赖付费生成服务；执行任务所用的 Codex / Claude Code 帐号与模型服务按你的环境配置。
 
 **换一台电脑后画面不同怎么办？**
 
